@@ -1,0 +1,32 @@
+{
+  "name": "ngx-plate",
+  "version": "1.0.0",
+  "description": "ngx-Plate is Scaffolding for Angular2. Create Moduels with Component,Service and Views from command line.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+	 "start": "node index.js"
+  },
+  "devDependencies": {
+    "prompt": "latest",
+    "mocha": "latest",
+    "should": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swabha88/ngx-plate.git"
+  },
+  "keywords": [
+    "scaffolding",
+    "angularjs"
+  ],
+  "author": "Swabha Rajapaksha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swabha88/ngx-plate/issues"
+  },
+  "homepage": "https://github.com/swabha88/ngx-plate#readme",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
